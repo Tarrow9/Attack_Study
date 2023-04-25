@@ -1,0 +1,16 @@
+하이델-1	!fakenickname1.	에페리아-1	!fakenumber!.
+하이델-2	!fakenickname2.	에페리아-2	!fanumberame17.
+하이델-3	!fakenickname3.	에페리아-3	!fakennumbere18.
+칼페온-1	!fakenickname4.	세렌디아-1	!fakenickname19.
+칼페온-2	!fakenickname5.	세렌디아-2	!fakenumber20.
+칼페온-3	!fakenickname6.	세렌디아-3	!fakenumbername21.
+플로린-1	!fakenickname7.	발레노스-1	!fakenickname22.
+플로린-2	!fakenickname8.	발레노스-2	!fakennumberame23.
+플로린-3	!fakenickname9.	발레노스-3	!fakenickname24.
+메디아-1	!fakenickname10.	발랜시아-1	!fakenickname25.
+메디아-2	!fakenickname11.	발랜시아-2	!fakennumber26.
+메디아-3	!fakenickname12.	발랜시아-3	!fakenumber7.
+케플란-1	!fakenickname13.	카마실비아-1	!fakenickname28.
+케플란-2	!fakenickname14.	카마실비아-2	!fakenickname29.
+케플란-3	!fakenickname15.	카마실비아-3	!fakenickname30.
+		아르샤		!fakenickname31.
